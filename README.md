@@ -25,6 +25,18 @@ A mini project using **MySQL stored procedures** and **Python (Streamlit)** to c
 <img width="1092" height="416" alt="Screenshot 2025-07-17 150420" src="https://github.com/user-attachments/assets/57374d79-bec9-409f-b517-b551a7691c79" />
 
 ---
+## 📊 Power BI Dashboard
+
+In addition to the Streamlit version, this project is also implemented using **Power BI Desktop**.
+
+![Power BI Dashboard](https://img.shields.io/badge/Visualization-Power%20BI-yellow?style=flat-square&logo=powerbi)
+
+📁 [Download Power BI Project File (.pbix)](https://github.com/rohitwakchaure/Celebal-Project-SQL-Working-Hours/blob/main/PowerBi%20Dashboard/Celebal%20project.pbix)
+
+📷 **Dashboard Previews**:
+
+<img width="928" height="552" alt="PowerBi Dashboard" src="https://github.com/user-attachments/assets/e734b94c-0812-43d1-aa9f-4951ebd3732b" />
+
 
 ## 🛠️ Tech Stack
 
