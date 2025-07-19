@@ -1,6 +1,5 @@
 # 🕒 Employee Working Hours Calculator 📅
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/working_hours_diagram.png" alt="Working Hours Diagram" width="700"/>
 
 A mini project using **MySQL stored procedures** and **Python (Streamlit)** to calculate total working hours between two dates—excluding **Sundays**, **1st and 2nd Saturdays** (unless they are start or end dates).
 
